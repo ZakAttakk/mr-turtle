@@ -1,0 +1,22 @@
+#turtle{
+    width: 90%;
+    height: auto;
+}
+
+.containerExtras{
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    /*height: 100%*/
+}
+
+.buttonExtras {
+    margin: 8px;
+    /*width: 170px;*/
+}
+
+.mediumfont {
+    font-size: 12pt;
+    
+}
